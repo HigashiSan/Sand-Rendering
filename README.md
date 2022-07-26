@@ -5,7 +5,7 @@ Based on the Journey development team shared in GDC2012.
 
 ## How to do realistic sand rendering?
 
-#### Diffuse
+#### Amient and Diffuse
 #### OceanSpecular NormalSpecular
 #### Glitter
 #### Rim Light
